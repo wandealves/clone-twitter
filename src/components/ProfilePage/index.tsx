@@ -1,6 +1,5 @@
 import React from 'react'
-//https://www.youtube.com/watch?v=K-8z_4xvT3o&list=PL85ITvJ7FLohz54DLfinJeHi7DrHGT2_U&index=21
-//01:07:35
+
 import Feed from 'components/Feed'
 
 import {
